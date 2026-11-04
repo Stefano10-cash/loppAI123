@@ -1,0 +1,13 @@
+{
+  "projectId": "72066261",
+  "functions": {
+    "google-oauth": {
+      "hasChanged": false,
+      "hash": "16e8d009424030fdac53f7bd87700606514dd953770c173d4fc4cbf9c93d4097"
+    },
+    "meta-oauth": {
+      "hasChanged": false,
+      "hash": "7e057a67353257cb7786ec5609223e68c3927f8358cbf0802770e37b1b4ce8f6"
+    }
+  }
+}
